@@ -1,3 +1,4 @@
+lua/custom/plugins/_disabled
 tags
 test.sh
 .luarc.json
